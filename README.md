@@ -1,5 +1,5 @@
 ## About me
-- 🎓 Hi! My name is Livia and I'm currently studying computer science at IFRN.
+- 🎓 Hi! My name is Livia and I'm currently studying tech at IFRN.
 - 🌱 **Interests:** data analysis and web development.
 - 🤓 **Other interests:** philosophy, gaming, films, spiders, terrariums. 
 
