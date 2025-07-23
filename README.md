@@ -14,6 +14,16 @@
 
 ## Skills
 
+<div style='flex'>
+<h4>Languages</h4>
+<img src='https://skillicons.dev/icons?i=python,html,css'>
+
+<h4>Frameworks</h4>
+
+<h4>Databases</h4>
+
+<h4>Technologies</h4>
+
 #### Languages
 ![Languages](https://skillicons.dev/icons?i=python,html,css)
 
@@ -26,5 +36,4 @@
 #### Technologies
 ![Technologies](https://skillicons.dev/icons?i=git,gitlab,linux,figma,md)
 
-#### Socials
-<a href='mailto:livvialn7@gmail.com'><img src='https://skillicons.dev/icons?i=gmail'></a>
+</div>
