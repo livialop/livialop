@@ -14,26 +14,11 @@
 
 ## Skills
 
-<div style='flex'>
-<h4>Languages</h4>
-<img src='https://skillicons.dev/icons?i=python,html,css'>
-
-<h4>Frameworks</h4>
-
-<h4>Databases</h4>
-
-<h4>Technologies</h4>
-
-#### Languages
-![Languages](https://skillicons.dev/icons?i=python,html,css)
+#### Languages & Databases
+![Languages](https://skillicons.dev/icons?i=python,html,css,postgres,mysql,sqlite)
 
 #### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=flask,bootstrap)
 
-#### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
-
 #### Technologies
 ![Technologies](https://skillicons.dev/icons?i=git,gitlab,linux,figma,md)
-
-</div>
