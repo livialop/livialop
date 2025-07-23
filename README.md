@@ -1,8 +1,30 @@
-## Sobre
-- 🎓 Estudando Informática pelo IFRN.
-- 🌱 Áreas de interesse: banco de dados, análise de dados e desenvolvimento web.
+## About me
+- 🎓 Hi! My name is Livia and I'm currently studying computer science at IFRN.
+- 🌱 **Interests:** data analysis and web development.
+- 🤓 **Other interests:** philosophy, gaming, films, spiders, terrariums. 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;" >
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livialop&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&hide_border=true" alt="Top Languages">  
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=livialop&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats">
+<div style='display:flex; justify-content:center; align-items:center;'>
+  <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWc3NXY2bWdnM3lqczV0ajYyYW0xaDN4dGZoajgydHd5M3NiNHIxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ohT97gdpR40vK/giphy.gif' style='width:70%'>
 </div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> Github Stats
+
+![livialop's stats](https://github-readme-stats.vercel.app/api?username=livialop&theme=aura&show_icons=true&hide_border=true&count_private=true)
+![livialop's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livialop&theme=aura&layout=compact&hide_border=true)
+
+## Skills
+
+#### Languages
+![Languages](https://skillicons.dev/icons?i=python,html,css)
+
+#### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=flask,bootstrap)
+
+#### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
+
+#### Technologies
+![Technologies](https://skillicons.dev/icons?i=git,gitlab,linux,figma,md)
+
+#### Socials
+<a href='mailto:livvialn7@gmail.com'><img src='https://skillicons.dev/icons?i=gmail'></a>
