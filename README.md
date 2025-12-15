@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Tools-Apache-informational?style=for-the-badge&logo=apache&logoColor=white&color=AB0303&label=Server">
 </p>
 
 #### Frameworks & ORMs
@@ -39,4 +38,5 @@
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Tools-Apache-informational?style=for-the-badge&logo=apache&logoColor=white&color=AB0303&label=Server">
 </p>
