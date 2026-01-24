@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> Github Stats
 
 ![livialop's stats](https://github-readme-stats.vercel.app/api?username=livialop&theme=aura&show_icons=true&hide_border=true&count_private=true)
-![livialop's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livialop&theme=aura&layout=compact&hide_border=true)
+![livialop's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livialop&theme=aura&layout=compact&hide_border=true$hide=html,css)
 
 
 
